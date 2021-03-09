@@ -3,7 +3,7 @@
 笔记本型号 神舟战神z7-kp7sc
 Catalina 10.15.7正常
 
-理论上支持 Big Su（没有实测）
+理论上支持 Big Sur（没有实测）
 
 OpenCore版本：0.6.5
 
